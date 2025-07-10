@@ -68,5 +68,5 @@ __pycache__/
 
 ---
 
-## 👑 Made with 💛 by Prince Pathak
+## 👑 Made with 💙 by Prince Pathak
 
